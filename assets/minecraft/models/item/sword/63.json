@@ -1,0 +1,6 @@
+{
+	"parent": "megaloot:item/handheld",
+	"textures": {
+		"layer0": "megaloot:item/sword/63"
+	}
+}
