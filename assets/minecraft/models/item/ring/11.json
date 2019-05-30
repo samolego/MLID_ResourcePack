@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/sword/10"
+		"layer0": "item/ring/11"
 	}
 }

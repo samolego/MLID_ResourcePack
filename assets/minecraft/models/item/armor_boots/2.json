@@ -1,0 +1,6 @@
+{
+	"parent": "item/diamond_boots",
+	"textures": {
+		"layer0": "item/armor_boots/2"
+	}
+}
