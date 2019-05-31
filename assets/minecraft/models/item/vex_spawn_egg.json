@@ -1,8 +1,0 @@
-{
-    "parent": "item/template_spawn_egg",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/weaponcase_common"},
-        {"predicate": {"custom_model_data":2}, "model": "item/weaponcase_rare"},
-        {"predicate": {"custom_model_data":3}, "model": "item/weaponcase_epic"}
-	]
-}

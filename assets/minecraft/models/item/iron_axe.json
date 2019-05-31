@@ -1,0 +1,29 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_axe"
+    },
+    "overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/axe/1"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/axe/2"},
+		{"predicate": {"custom_model_data": 3}, "model": "item/axe/3"},
+		{"predicate": {"custom_model_data": 4}, "model": "item/axe/4"},
+		{"predicate": {"custom_model_data": 5}, "model": "item/axe/5"},
+		{"predicate": {"custom_model_data": 6}, "model": "item/axe/6"},
+		{"predicate": {"custom_model_data": 7}, "model": "item/axe/7"},
+		{"predicate": {"custom_model_data": 8}, "model": "item/axe/8"},
+		{"predicate": {"custom_model_data": 9}, "model": "item/axe/9"},
+		{"predicate": {"custom_model_data": 10}, "model": "item/axe/10"},
+		{"predicate": {"custom_model_data": 11}, "model": "item/axe/11"},
+		{"predicate": {"custom_model_data": 12}, "model": "item/axe/12"},
+		{"predicate": {"custom_model_data": 13}, "model": "item/axe/13"},
+		{"predicate": {"custom_model_data": 14}, "model": "item/axe/14"},
+		{"predicate": {"custom_model_data": 15}, "model": "item/axe/15"},
+		{"predicate": {"custom_model_data": 16}, "model": "item/axe/16"},
+		{"predicate": {"custom_model_data": 17}, "model": "item/axe/17"},
+		{"predicate": {"custom_model_data": 18}, "model": "item/axe/18"},
+		{"predicate": {"custom_model_data": 19}, "model": "item/axe/19"},
+		{"predicate": {"custom_model_data": 20}, "model": "item/axe/20"},
+        {"predicate": {"custom_model_data": 21}, "model": "item/axe/21"}
+    ]
+}
