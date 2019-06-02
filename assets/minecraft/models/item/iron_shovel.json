@@ -1,0 +1,23 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_shovel"
+    },
+    "overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/shovel/1"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/shovel/2"},
+		{"predicate": {"custom_model_data": 3}, "model": "item/shovel/3"},
+		{"predicate": {"custom_model_data": 4}, "model": "item/shovel/4"},
+		{"predicate": {"custom_model_data": 5}, "model": "item/shovel/5"},
+		{"predicate": {"custom_model_data": 6}, "model": "item/shovel/6"},
+		{"predicate": {"custom_model_data": 7}, "model": "item/shovel/7"},
+		{"predicate": {"custom_model_data": 8}, "model": "item/shovel/8"},
+		{"predicate": {"custom_model_data": 9}, "model": "item/shovel/9"},
+		{"predicate": {"custom_model_data": 10}, "model": "item/shovel/10"},
+		{"predicate": {"custom_model_data": 11}, "model": "item/shovel/11"},
+		{"predicate": {"custom_model_data": 12}, "model": "item/shovel/12"},
+		{"predicate": {"custom_model_data": 13}, "model": "item/shovel/13"},
+		{"predicate": {"custom_model_data": 14}, "model": "item/shovel/14"},
+        {"predicate": {"custom_model_data": 15}, "model": "item/shovel/15"}
+    ]
+}
