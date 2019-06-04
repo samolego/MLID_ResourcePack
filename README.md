@@ -5,3 +5,5 @@ Megaloot original author: https://github.com/Zairus/MegaLoot
 (this project isn't affiliated with his mod)
 
 Check out the wiki; https://github.com/samolego/MegaLoot-Imitation-Datapack/wiki
+
+# Put the textures of items in MLID_ResourcePack/assets/minecraft/textures/item
